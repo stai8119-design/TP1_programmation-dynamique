@@ -1,2 +1,8 @@
 dao.DaoImpl
 metier.MetierImpl
+
+dao.DaoImplV2
+metier.MetierImpl
+
+dao.DaoDBImpl
+metier.MetierImpl
